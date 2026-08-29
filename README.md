@@ -1,0 +1,2 @@
+# MyGameTemplate
+Project Setup Template
