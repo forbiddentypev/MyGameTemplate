@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+build/
+External/Dependencies/godot-cpp/
+Game/.godot/
+Game/android/
